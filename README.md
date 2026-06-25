@@ -143,5 +143,5 @@ Through this project, we explored:
 * Real-world application of OOP principles
 
 ---
-👨‍💻 Authors
+👨‍💻 Author
 Muhammad Haseeb Zafar
